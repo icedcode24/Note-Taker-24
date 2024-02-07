@@ -7,7 +7,7 @@ const htmlRoute = require('./routes/htmlRoute');
 const app = express();
 
 // Set up Port
-const Port = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3001;
 
 // Setting up static piblic with express
 app.use(express.static('public'));
