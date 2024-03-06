@@ -1,30 +1,27 @@
 [
     {
-        "title":"high school",
-        "text":"Test text",
-        "id":"1"
-    },
-
-    {
-        "title":"middle school",
-        "text":"Test text",
-        "id":"2"
-    },
-
-    {
-        "title":"elementary",
-        "text":"Test text",
-        "id":"3"
+        "title": "high school",
+        "text": "Test text",
+        "id": "1"
     },
     {
-        "title":"junior college",
-        "text":"Test text",
-        "id":"4"
+        "title": "middle school",
+        "text": "Test text",
+        "id": "2"
     },
     {
-        "title":"community college",
-        "text":"Test text",
-        "id":"5"
-    } 
+        "title": "elementary",
+        "text": "Test text",
+        "id": "3"
+    },
+    {
+        "title": "junior college",
+        "text": "Test text",
+        "id": "4"
+    },
+    {
+        "title": "community college",
+        "text": "Test text",
+        "id": "5"
+    }
 ]
-
